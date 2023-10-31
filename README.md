@@ -219,11 +219,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- ## FOR PULSE AT 50%<br>
+ ## FOR PULSE AT 50%
  <img src="https://github.com/VIJAYKUMAR22007124/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119657657/2e15b8bb-4942-47fe-8c28-45f0f964a53a" width=450 height=450><br>
- ## FOR PULSE AT 60%<br>
+ ## FOR PULSE AT 60%
  <img src="https://github.com/VIJAYKUMAR22007124/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119657657/215b0a00-bd1d-4ba3-a153-461ba8ddffcd" width=450 height=450><br>
- ## FOR PULSE AT 70%<br>
+ ## FOR PULSE AT 70%
  <img src="https://github.com/VIJAYKUMAR22007124/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119657657/eeeec320-de53-435b-ae58-d386a1476d85" width=450 height=450><br>
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
@@ -237,7 +237,7 @@ TON = 0.68 ms<br>
 TOFF= 0.68 ms<br>
 TOTAL TIME = 1.36ms<br>
 FREQUENCY = 1/(TOTAL TIME) = 735HZ
-<br>
+
 ### FOR PULSE AT 700
 
 TON = 0.8ms<br>
